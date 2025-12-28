@@ -1,5 +1,6 @@
 # Segmentación de lesiones nuevas o cambiantes a través de MRI usando la red CNN nnU-Net v2
 
+## Introducción
 Este repositorio contiene información sobre el desarrollo del proyecto (TFM: "Detección de lesiones nuevas o cambiantes en EM") de segmentación longitudinal de lesiones producidas por la Esclerosis Múltiple, usando la red CNN **nnU-Net v2**.
 Las imágenes contendrán las etiquetas:
 - 0: zona sin lesión
@@ -43,6 +44,11 @@ Se incorporan el código para realizar las siguientes tareas:
 ##  Objetivo
 
 Desarrollar un modelo basado en la nnU-Net v2, que sea capaz de distinguir entre zonas sin lesiones, zonas con lesiones estables y zonas con lesiones nuevas. Se evalúa su rendimiento mediante un dataset externo, MSSEG2.
+
+## Licencia
+Attribution-NonCommercial-ShareAlike 4.0 International
+[![CC BY-NC-SA 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 ---
 
  Autora: Sofía Ramírez López  
